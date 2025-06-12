@@ -1,5 +1,5 @@
 # TiendaOtaku - README
-Enlace a Github:  https://github.com/marcoslainguerrero/TiendaakihabaraMarcosLain.git
+Enlace a Github:  https://github.com/marcoslainguerrero/ProyectoAkihabaraMarcosLain.git
 ## 1. Configuración de la base de datos MySQL
 
 1. Asegúrate de tener instalado MySQL Server.  
